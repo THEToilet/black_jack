@@ -22,7 +22,7 @@ old-fashioned dot pictures
 
 ## Usage
 - X
-- Z
+- Z decision
 - arrow keys
 
 ## Anything Else
